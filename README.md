@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">🐍 Linguagens: Python</h4>
+<h4 align="left">🐍 Linguagens: Python | HTML e CSS | SQL</h4>
 
 ###
 
