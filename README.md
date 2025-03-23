@@ -30,6 +30,6 @@
 
 ###
 
-<h4 align="left">🎨 Design & Edição: Canva | Lightroom |</h4>
+<h4 align="left">🎨 Design & Edição: Canva | Lightroom | Capcut</h4>
 
 ###
