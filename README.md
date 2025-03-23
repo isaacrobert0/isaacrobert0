@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">🐍 Linguagens: Python | JavaScript</h4>
+<h4 align="left">🐍 Linguagens: Python</h4>
 
 ###
 
