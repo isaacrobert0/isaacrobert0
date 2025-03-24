@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">💻 Estudante de Análise e Desenvolvimento de Sistemas</h4>
+<h4 align="left">💻 Cursando Análise e Desenvolvimento de Sistemas</h4>
 
 ###
 
