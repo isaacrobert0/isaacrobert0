@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">🐍 Linguagens: Python | HTML e CSS | Dart</h4>
+<h4 align="left">💻 Linguagens: Python | HTML e CSS</h4>
 
 ###
 
