@@ -6,11 +6,11 @@
 
 ###
 
-<h4 align="left">🔎 Explorando SQL, Python e Cybersecurity</h4>
+<h4 align="left">🔎 Explorando SQL e Python </h4>
 
 ###
 
-<h4 align="left">⚡ Curto tecnologia, música, design e resolver problemas com código!</h4>
+<h4 align="left">⚡ Curto tecnologia, música, midia sociais e resolver problemas com código!</h4>
 
 ###
 
@@ -18,15 +18,7 @@
 
 ###
 
-<h4 align="left">💻 Linguagens: Python | HTML e CSS</h4>
-
-###
-
-<h4 align="left">📊 Banco de Dados: SQL | Excel</h4>
-
-###
-
-<h4 align="left">🔒 Cybersecurity: Em progresso...</h4>
+<h4 align="left">💻 Linguagens: Python | SQL</h4>
 
 ###
 
