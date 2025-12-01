@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🔎 Explorando SQL e Python </h4>
+<h4 align="left">🔎 Explorando SQL, Python e IA </h4>
 
 ###
 
