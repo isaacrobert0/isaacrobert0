@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">💻 Cursando Análise e Desenvolvimento de Sistemas<br><br>🔎 Explorando SQL, Python, BI e IA<br><br>⚡ Curto tecnologia, dados, música e resolver problemas com código!</p>
+<p align="left">💻 Graduando Análise e Desenvolvimento de Sistemas<br><br>🔎 Explorando SQL, Python, BI e IA<br><br>⚡ Curto tecnologia, dados, música e resolver problemas com código!</p>
 
 ###
 
-<h2 align="left">Language and tools</h2>
+<h2 align="left">Linguagens & Ferramentas</h2>
 
 ###
 
