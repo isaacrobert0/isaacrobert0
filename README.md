@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Graduando Análise e Desenvolvimento de Sistemas<br><br>🔎 Explorando SQL, Python, BI e IA<br><br>⚡ Curto tecnologia, dados, música e resolver problemas com código!</p>
+<p align="left">💻 Graduado em Análise e Desenvolvimento de Sistemas<br><br>🔎 Explorando SQL, Python e IA<br><br>⚡ Curto tecnologia, dados, música e resolver problemas com código!</p>
 
 ###
 
